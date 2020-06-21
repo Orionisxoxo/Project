@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Automation_Espresso</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="switch1_name">Switch On/Off</string>
+    <string name="switch2_name">Switch2 On/Off</string>
+    <string name="checkbox1_name">First checkBox</string>
+    <string name="checkbox2_name">Second checkBox</string>
+    <string name="checkbox3_name">Third checkBox</string>
+    <string name="previous">Previous fragment</string>
+    <string name="second">Second</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
